@@ -4,7 +4,7 @@ This project aims to avoid the gatherings of people in various supermarkets and 
 
 **NOTE**: This project does not wanna be for commercial use. This project wants to help people to stay outside their house as little time as possible and to avoid other people for the quarantine period.
 
-![snippet](/assets/map.png)
+![snippet](https://coderganesh.github.io/covid-waiter/assets/map.png)
 
 # How it works
 
