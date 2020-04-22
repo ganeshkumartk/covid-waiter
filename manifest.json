@@ -8,12 +8,12 @@
   "theme_color": "#111",
   "icons": [
     {
-      "src": "https://github.com/CoDeRgAnEsh/covid-waiter/assets/icon-512x512.png",
+      "src": "https://github.com/CoDeRgAnEsh/covid-waiter/blob/gh-pages/assets/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "https://github.com/CoDeRgAnEsh/covid-waiter/assets/icon-384x384.png",
+      "src": "https://github.com/CoDeRgAnEsh/covid-waiter/blob/gh-pages/assets/icon-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
