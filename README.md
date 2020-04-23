@@ -6,6 +6,7 @@ This project aims to avoid the gatherings of people in various supermarkets and 
 
 ![snippet](https://coderganesh.github.io/covid-waiter/assets/map.png)
 
+
 # How it works
 
 The Front-end side is super simple and uses Open Street Map with the Leaflet.js library.
@@ -24,6 +25,8 @@ The waiting time is also based on the current popularity (readme as realtime) of
 The data is then divided into hours and weekdays.
 
 In the future it will then perhaps be possible to give an estimate on the following hours.
+
+![snippet](https://coderganesh.github.io/covid-waiter/assets/map2.png)
 
 **All times are to be kept as estimates.**
 
