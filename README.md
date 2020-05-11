@@ -53,9 +53,9 @@ Please, note that sometimes a place can have a parking area or other stuff where
 
 # Credits
 
--The waitingtimes lib is based on the [populartimes python library](https://github.com/m-wrzr/populartimes/).
--The geolocation client utility comes from the [greg's repo](https://github.com/gregsramblings/getAccurateCurrentPosition).
--The Places with category comes from [HERE places API](https://developer.here.com/documentation/places/dev_guide/topics/quick-start-find-text-string.html)
--The geolocation API used on the backend site is provided from [ArcGIS](https://developers.arcgis.com/).
+- The waitingtimes lib is based on the [populartimes python library](https://github.com/m-wrzr/populartimes/).
+- The geolocation client utility comes from the [greg's repo](https://github.com/gregsramblings/getAccurateCurrentPosition).
+- The Places with category comes from [HERE places API](https://developer.here.com/documentation/places/dev_guide/topics/quick-start-find-text-string.html)
+- The geolocation API used on the backend site is provided from [ArcGIS](https://developers.arcgis.com/).
 
 Cheers.
