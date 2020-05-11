@@ -13,7 +13,7 @@ The Front-end side is super simple and uses Open Street Map with the Leaflet.js 
 
 It uses also geocode.xyz API, client side, to retrieve details about the address and the city from the geo-coordinates retrieve by the HTML5 API.
 
-The Back-end is powered by Flask, a micro-framework for building some simple APIs to retrieve data from Google Places.
+The Back-end is powered by Flask, a micro-framework for building some simple APIs to retrieve data from Google Places and [HERE Places API](https://developer.here.com/documentation/places/dev_guide/topics/quick-start-find-text-string.html) for getting Places by Category like (Supermarket, pharmacies etc).
 
 **NOTE**: this project does not use the official Google APIs, but it is working via a sort of workaround / bug. We can call this "scraping", but it is not the right word.
 
@@ -55,7 +55,7 @@ Please, note that sometimes a place can have a parking area or other stuff where
 
 The waitingtimes lib is based on the [populartimes python library](https://github.com/m-wrzr/populartimes/).
 The geolocation client utility comes from the [greg's repo](https://github.com/gregsramblings/getAccurateCurrentPosition).
-
+The Places with category comes from [HERE places API](https://developer.here.com/documentation/places/dev_guide/topics/quick-start-find-text-string.html)
 The geolocation API used on the backend site is provided from [ArcGIS](https://developers.arcgis.com/).
 
 Cheers.
