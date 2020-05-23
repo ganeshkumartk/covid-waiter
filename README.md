@@ -44,7 +44,7 @@ Please, note that sometimes a place can have a parking area or other stuff where
 - Add geocoding data from geocode API in client localStorage as a cache **in progress**
 - Add history
 - Need to optimize the load avg to grant the access to 1500 users in 10min **testing**
-- Add category filters and force estimation #6
+- Add category filters and force estimation
 - Refacotring UI/UX #9 **in progress**
 - add favorites location
 - Change modal asking the geodata/search
